@@ -48,7 +48,7 @@
   "scale_attn_weights": true,
   "scale_qk_dot_by_d": true,
   "transformers_version": "4.56.2",
-  "use_cache": true,
+  "use_cache": false,
   "vocab_size": 84992,
   "width_scale": 0.11100000000000002
 }
