@@ -227,4 +227,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ in the UAE** | **Powered by JAIS - Named after Jebel Jais, the highest mountain in the UAE**
+**Made with ❤️  in the UAE, Just Quantized by me in India** | **Powered by JAIS - Named after Jebel Jais, the highest mountain in the UAE**
